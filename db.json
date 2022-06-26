@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "item": "Learn Redux",
+      "status": true
+    },
+    {
+      "id": 2,
+      "item": "Learn React",
+      "status": true
+    },
+    {
+      "item": "Learn Hooks",
+      "status": false,
+      "id": 3
+    },
+    {
+      "item": "Learn Average",
+      "status": false,
+      "id": 4
+    },
+    {
+      "item": "Work from Home",
+      "status": false,
+      "id": 5
+    },
+    {
+      "item": "Work from Office",
+      "status": false,
+      "id": 6
+    },
+    {
+      "item": "Work over Time",
+      "status": false,
+      "id": 7
+    },
+    {
+      "item": "Work over Dues",
+      "status": false,
+      "id": 8
+    },
+    {
+      "item": "Learn axios",
+      "status": false,
+      "id": 9
+    },
+    {
+      "item": "Learn Communication",
+      "status": false,
+      "id": 10
+    }
+  ]
+}
